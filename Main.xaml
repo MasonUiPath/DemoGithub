@@ -78,5 +78,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="450,167.33333333333334" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;Log message 3&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="450,176.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;Log message&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="450,167.33333333333334" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[&quot;Feature Log Message&quot;]" />
   </Sequence>
 </Activity>
